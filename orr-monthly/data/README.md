@@ -20,6 +20,7 @@ The dataset is structured as a month-level time series, with each reported stati
 
 | Field Name | ORR Source Table | Field Label | Field Definition |
 |------------|------------------|-------------|------------------|
+| DATE | N/A | N/A | The month and year to which all statistics in the row apply. Each row represents a single monthly reporting period. |
 | avg_num_children_in_custody | UAC Operational Data | Average Number of Children in Care | The daily number of children in ORR custody, averaged across all days in the month. |
 | max_num_operational_beds | UAC Operational Data | Maximum Number of Operational Beds | The number of beds available for children, as of the last day of the month. [1] |
 | avg_occupancy_rt | UAC Operational Data | Average Occupancy Rate | The daily percentage of operational beds filled, averaged across all days in the month. [2] |
