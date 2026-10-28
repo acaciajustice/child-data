@@ -18,15 +18,12 @@ Historical monthly data on unaccompanied children (UC) passing through the custo
 
 ***Description:*** Historical archive of ORR monthly data spanning Fiscal Years 2018-2026.
 
-## Licensing 
+## Licensing and Disclaimer
 Unless otherwise noted, materials in this repository are governed by the repository-wide license found in the root directory. 
 Some datasets or folders may contain their own license files. Where a folder-level license exists, that license applies to the contents of that folder and supersedes the repository-wide license for those materials. 
-Users should review any dataset-specific licenses before using or redistributing repository contents.
+Users should review any dataset-specific licenses before using or redistributing repository contents.  
+Data contained within individual dataset folders are compiled from publicly available sources. While every effort has been made to ensure accuracy and completeness, users should verify critical findings against original source materials whenever possible. For additional information, see the folder-specific disclaimer information.
 
-## Disclaimer 
-Data contained within individual dataset folders are compiled from publicly available sources. While every effort has been made to ensure accuracy and completeness, users should verify critical findings against original source materials whenever possible.
-
-The inclusion of data in this repository does not imply endorsement by any government agency, and source agencies may revise or update their published information after a dataset has been archived or compiled.
 
 ## Contact 
 For questions about this dataset, methodology, or licensing: 
