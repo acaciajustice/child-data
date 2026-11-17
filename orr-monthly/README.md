@@ -90,9 +90,11 @@ All data in this repository is derived from public data made available by ORR.
 
 - In April 2025, UC data were removed from the HHS website. During an update to ORR’s [Unaccompanied Alien Children](https://acf.gov/orr/programs/uac) website, monthly data from Fiscal Year 2025 were consolidated with other annual UC data on its Fact Sheets and Data page. That page was previously titled "Data".
 
-- In November 2025, when October 2025 monthly data—the start of Fiscal Year 2026—were posted online, data from Fiscal Year 2026 were removed.
+- In November 2025, when October 2025 monthly data—the start of Fiscal Year 2026—were posted online, data from Fiscal Year 2025 were removed.
 
-- As of September of 2026, ORR's [UACB Data](https://acf.gov/orr/research-data/uac) page presents monthly data from Fiscal Year 2026 only. Monthly UC data from prior fiscal years is not available on government websites.
+- In November 2026, when October 2026 monthly data—the start of Fiscal Year 2027—were posted online, data from Fiscal Year 2026 were removed.
+
+- As of November of 2026, ORR's [UACB Data](https://acf.gov/orr/research-data/uac) page presents monthly data from Fiscal Year 2027 only. Monthly UC data from prior fiscal years is not available on government websites.
 
 ### Data Sources   
 
@@ -103,10 +105,11 @@ The following sources were used to compile the archived dataset:
 
 ### Validation Methodology 
 To ensure the accuracy of the archived dataset, Acacia employed a multi-step validation approach:   
-1. Acacia's internal records of ORR's published historical data were used to establish a baseline dataset, spanning FY 2018 through FY2026.
+1. Acacia's internal records of ORR's published historical data were used to establish a baseline dataset, spanning FY 2018 through FY2025.
 2. Two researchers independently reconstructed the historical dataset using copies of ORR's website archived on the Internet Archive. A complete catalog of specific archived URLs and collection dates is available upon request.
 3. The two newly reconstructed datasets were compared to the original baseline dataset. Using systematic validation functions, each data point was evaluated across all three datasets. Values matching across all three datasets received a "match" flag, and any discrepancies were automatically flagged as "no match" for manual review.
 4. Both researchers who performed the independent reconstructions collaboratively reviewed all flagged discrepancies. For each "no match case, the team identified the source of discrepancy, cross-referenced the original archived ORR source, determined the correct value, and documented the resolution.
+5. After ORR completed its record of FY2026 data posted online, Acacia incorporated FY2026 data into this archived dataset. 
 
 ## Additional Information 
 ### Attribution 
@@ -116,7 +119,7 @@ Acacia Center for Justice. (2026). ORR Unaccompanied Children Historical Monthly
 This dataset is compiled from publicly available information published by the Office of Refugee Resettlement. ORR may further update its data during reconciliation processes occurring after Acacia’s data collection. While every effort has been made to ensure accuracy, users should verify critical information against original ORR sources when possible. 
 ### Contact 
 For questions about this dataset, methodology, or licensing: 
-- **Email**: NEED EMAIL HERE
+- **Email**:  [research@acaciajustice.org](research@acaciajustice.org) 
 - **Organization**: [Acacia Center for Justice](https://acaciajustice.org/)
 
 
