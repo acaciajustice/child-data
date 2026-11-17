@@ -3,7 +3,7 @@
 # Child Data Repository
 The Child Data Repository is a collection of publicly available datasets, analytical products, and documentation related to children involved in U.S. immigration systems. Maintained by the Acacia Center for Justice, this repository serves as a central location for curated data resources that support research, policy analysis, data analysis, and public understanding.
 
-Individual datasets are organized into separate folders, each containing: 
+Individual resources are organized into separate folders, each containing: 
 - A dataset-specific README
 - Documentation and methodology
 - Licensing information
