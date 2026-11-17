@@ -2,7 +2,7 @@
 
 # ORR Unaccompanied Children Historical Monthly Data
 
-This repository provides an archive of monthly data on unaccompanied children (UC) passing through the custody of the Office of Refugee Resettlement (ORR), an office within the Administration for Children and Families (ACF), part of the U.S. Department of Health and Human Services (HHS). The dataset includes demographic information and metrics on facility capacity, referrals, and discharges from ORR custody, as originally published by ORR.  
+This resource provides an archive of monthly data on unaccompanied children (UC) passing through the custody of the Office of Refugee Resettlement (ORR), an office within the Administration for Children and Families (ACF), part of the U.S. Department of Health and Human Services (HHS). The dataset includes demographic information and metrics on facility capacity, referrals, and discharges from ORR custody, as originally published by ORR.  
 
 ORR makes these data publicly available, but its online resources do not include data from prior fiscal years. The Acacia Center for Justice provides this historical data here, compiled and standardized in an accessible format. 
 
