@@ -27,7 +27,7 @@ Data contained within individual dataset folders are compiled from publicly avai
 
 ## Contact 
 For questions about this dataset, methodology, or licensing: 
-- **Email**: NEED EMAIL HERE
+- **Email**: [research@acaciajustice.org](research@acaciajustice.org)
 - **Organization**: [Acacia Center for Justice](https://acaciajustice.org/)
 
 
