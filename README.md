@@ -6,7 +6,6 @@ The Child Data Repository is a collection of publicly available datasets, analyt
 Individual resources are organized into separate folders, each containing: 
 - A dataset-specific README
 - Documentation and methodology
-- Licensing information
 - Downloadable data files
 - Citation guidance
 
@@ -19,9 +18,12 @@ Historical monthly data on unaccompanied children (UC) passing through the custo
 ***Description:*** Historical archive of ORR monthly data spanning Fiscal Years 2018-2026.
 
 ## Licensing and Disclaimer
-Unless otherwise noted, materials in this repository are governed by the repository-wide license found in the root directory. 
-Some datasets or folders may contain their own license files. Where a folder-level license exists, that license applies to the contents of that folder and supersedes the repository-wide license for those materials. 
-Users should review any dataset-specific licenses before using or redistributing repository contents.  
+Resources in this repository are made available under the Create Commons Attribution 4.0 International License (CC BY 4.0). See the LICENSE file for the complete license terms.  
+
+The License applies to Acacia Center for Justice's compilation, organization, documentation, and original materials contained in this repository, to the extent that Acacia Center for Justice holds applicable rights.  
+
+Users of repository materials must provide appropriate attribution in accordance with the CC BY 4.0 license. Dataset-specific citation guidance, where applicable, is provided in individual dataset directories. 
+
 Data contained within individual dataset folders are compiled from publicly available sources. While every effort has been made to ensure accuracy and completeness, users should verify critical findings against original source materials whenever possible. For additional information, see the folder-specific disclaimer information.
 
 
