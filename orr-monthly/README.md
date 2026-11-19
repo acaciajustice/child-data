@@ -123,7 +123,7 @@ If you use this dataset or materials in any publication, research, or other publ
 This dataset is compiled from publicly available information published by the Office of Refugee Resettlement. ORR may further update its data during reconciliation processes occurring after Acacia’s data collection. While every effort has been made to ensure accuracy, users should verify critical information against original ORR sources when possible. 
 ### Contact 
 For questions about this dataset, methodology, or licensing: 
-- **Email**:  [research@acaciajustice.org](research@acaciajustice.org) 
+- **Email**:  [research@acaciajustice.org](mailto:research@acaciajustice.org) 
 - **Organization**: [Acacia Center for Justice](https://acaciajustice.org/)
 
 
