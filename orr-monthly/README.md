@@ -118,7 +118,7 @@ This dataset and Acacia Center for Justice’s original contributions are made a
 
 If you use this dataset or materials in any publication, research, or other public-facing work, please attribute it to “Acacia Center for Justice” and include a link to this repository.
 
-**Suggested citation:** Acacia Center for Justice. (2026). *ORR Unaccompanied Children Historical Monthly Data* [Data set]. GitHub https://github.com/acaciajustice/child-data/orr-monthly
+**Suggested citation:** Acacia Center for Justice. (2026). *ORR Unaccompanied Children Historical Monthly Data* [Data set]. GitHub [https://github.com/acaciajustice/child-data/tree/main/orr-monthly](https://github.com/acaciajustice/child-data/tree/main/orr-monthly)
 ### Disclaimer 
 This dataset is compiled from publicly available information published by the Office of Refugee Resettlement. ORR may further update its data during reconciliation processes occurring after Acacia’s data collection. While every effort has been made to ensure accuracy, users should verify critical information against original ORR sources when possible. 
 ### Contact 
