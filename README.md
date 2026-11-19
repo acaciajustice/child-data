@@ -18,11 +18,7 @@ Historical monthly data on unaccompanied children (UC) passing through the custo
 ***Description:*** Historical archive of ORR monthly data spanning Fiscal Years 2018-2026.
 
 ## License
-Resources in this repository are made available under the Create Commons Attribution 4.0 International License (CC BY 4.0). See the LICENSE file for the complete license terms.  
-
-The License applies to Acacia Center for Justice's compilation, organization, documentation, and original materials contained in this repository, to the extent that Acacia Center for Justice holds applicable rights.  
-
-Users of repository materials must provide appropriate attribution in accordance with the CC BY 4.0 license. Dataset-specific citation guidance, where applicable, is provided in individual dataset directories. 
+Terms for license and attribution for materials in this repository are specified for each individual resource. Please see the guidance provided in the relevant individual directories.
 
 ## Contact 
 For questions about this dataset, methodology, or licensing: 
