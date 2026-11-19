@@ -105,7 +105,7 @@ The following sources were used to compile the archived dataset:
 
 ### Validation Methodology 
 To ensure the accuracy of the archived dataset, Acacia employed a multi-step validation approach:   
-1. Acacia's internal records of ORR's published historical data were used to establish a baseline dataset, spanning FY 2018 through FY2025.
+1. Acacia's internal records of ORR's published historical data were used to establish a baseline dataset, spanning FY2018 through FY2025.
 2. Two researchers independently reconstructed the historical dataset using copies of ORR's website archived on the Internet Archive. A complete catalog of specific archived URLs and collection dates is available upon request.
 3. The two newly reconstructed datasets were compared to the original baseline dataset. Using systematic validation functions, each data point was evaluated across all three datasets. Values matching across all three datasets received a "match" flag, and any discrepancies were automatically flagged as "no match" for manual review.
 4. Both researchers who performed the independent reconstructions collaboratively reviewed all flagged discrepancies. For each "no match case, the team identified the source of discrepancy, cross-referenced the original archived ORR source, determined the correct value, and documented the resolution.
