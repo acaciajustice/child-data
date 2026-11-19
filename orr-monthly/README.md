@@ -113,8 +113,10 @@ To ensure the accuracy of the archived dataset, Acacia employed a multi-step val
 
 ## Additional Information   
 
-### Attribution 
-If you use this dataset or materials in any publication, research, or other public-facing work, please attribute it to Acacia Center for Justice and include a link to this repository.  
+### License and Attribution
+This dataset and Acacia Center for Justice’s original contributions are made available under the Create Commons Attribution 4.0 International License (CC BY 4.0), to the extent Acacia Center for Justice holds applicable rights.
+
+If you use this dataset or materials in any publication, research, or other public-facing work, please attribute it to “Acacia Center for Justice” and include a link to this repository.
 
 **Suggested citation:** Acacia Center for Justice. (2026). *ORR Unaccompanied Children Historical Monthly Data* [Data set]. GitHub https://github.com/acaciajustice/child-data/orr-monthly
 ### Disclaimer 
