@@ -22,7 +22,7 @@ Terms for license and attribution for materials in this repository are specified
 
 ## Contact 
 For questions about this dataset, methodology, or licensing: 
-- **Email**: [research@acaciajustice.org](research@acaciajustice.org)
+- **Email**: [research@acaciajustice.org](mailto:research@acaciajustice.org)
 - **Organization**: [Acacia Center for Justice](https://acaciajustice.org/)
 
 
